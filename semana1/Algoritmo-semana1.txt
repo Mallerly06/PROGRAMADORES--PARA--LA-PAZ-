@@ -1,0 +1,13 @@
+PREGUNTA 5 – ACTIVIDAD PRÁCTICA DE ALGORITMA 
+Escribe un algoritmo de mínimo 6 pasos para explicar
+RESPUESTA:  Para comenzar el algoritmo significa explicar un tema con responsabilidad digital. 
+Se construye en dos partes (ENTRADA Y SALIDA)
+SALIDA: Tema que se va a explicar, más el público que vendría siendo el principal objetivo. 
+ENTRADA: Explicación respetuosa, clara y verificada 
+PASOS: 
+1.	DEFINIR OBJETIVO: Determinar que queremos que entienda nuestro objetivo principal (el público) 
+2.	
+3.	 VERIFICAR FECHAS, AUTORES, ETC: Revisar que la información esté actualizada y quién la pública, para así descartar falsos positivos. 
+4.	ORGANIZAR LA INFORMACIÓN EN ORDEN LÓGICO: Para dar una información clara se debe dividir en ciertos criterios, comenzar por que importa, luego nos vamos a como funciona, un ejemplo práctico para así sea más entendible a las personas que le vamos a remitir el mensaje o la información.
+5.	CERRAR CON FUENTES Y LLAMADO A LA ACCIÓN ÉTICA: Lista de dónde se sacó la información para que otros la analicen, invitar a participar responsablemente y si quieres hacer un aporte, no atacar, haz el cambio. 
+6.	REVISAR LA FORMA EN LA QUE VAMOS A REFERIRNOS: Lee tu explicación o comentario y analizar si es respetuosa, evita lenguajes discriminatorios y asegúrate de referirte al público correcto. 

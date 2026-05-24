@@ -1,0 +1,8 @@
+PREGUNTA 4 – REFLEXIÓN DE LA SEMANA 
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+RESPUESTA:  Ambos conceptos se complementan del uno al otro.
+Ser ciudadano implica tener mucha ética y responsabilidad frente a la información que queremos compartir, verificar que sea una información clara y no haya errores, ya que nos puede generar problemas de tema personales, y es eso precisamente lo que se quiere evitar, por eso se debe informar. 
+Hoy en día la ciudadanía no es solo tener derecho a algo cada 4 años, también es tener derecho a participar en espacios donde se pueda expresar soluciones públicas o así mismo crear puntos claves para tener un contexto mejor de lo que se quiere. El internet es un código abierto que le permite a cualquier persona proponer, mejorar o construir prontas soluciones. 
+GitHub, son herramientas que permite el trabajo colaborativo en códigos. 
+Los GitHub encarnan valores de ciudadanía digital en el mundo, ejemplo:
+Apoyan en la transparencia, participación, colaboración, responsabilidad y pensamiento crítico, criterios que se le establecen a un ciudadano digital, para así crear un ambiente sano. 
