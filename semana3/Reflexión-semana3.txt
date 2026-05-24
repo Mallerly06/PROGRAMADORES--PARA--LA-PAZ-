@@ -1,0 +1,5 @@
+Es importante porque permite controlar como evoluciona un proyecto de forma segura y organizada. 
+permite volver atrás si algo falla.
+guarda historial del proyecto.
+facilita el trabajo.
+ayuda a encontrar errores. 
