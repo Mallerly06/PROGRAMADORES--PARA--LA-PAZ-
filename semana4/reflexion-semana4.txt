@@ -1,0 +1,11 @@
+Respuesta para "¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como http://Node.js?":
+
+Es importante por 3 razones clave:
+
+1. Autonomía: Con tecnologías abiertas como http://Node.js la comunidad no depende de empresas externas. Ustedes deciden qué datos se recolectan, cómo se usan y qué funciones tiene la app. Nadie les apaga la plataforma por cambios de políticas.
+
+2. Transparencia y confianza: Al ser código abierto, cualquier persona puede revisar que la herramienta no espía, no manipula datos ni tiene puertas traseras. Eso genera confianza para que la gente participe y denuncie sin miedo.
+
+3. Adaptación local: Las comunidades conocen sus problemas mejor que nadie. Con http://Node.js, que es gratis y tiene mucha documentación, pueden crear soluciones exactas para Chigorodó. Ejemplo: una app para reportar fallas de alumbrado o rutas de bus, sin pagar licencias caras.
+
+En resumen: tecnología abierta = poder en manos de la comunidad, no en manos de terceros.
